@@ -110,7 +110,7 @@ prediction_debug.log
 
 # Model and scaler files
 *.pkl
-*.joblib
+#*.joblib
 *.save
 
 # Other
